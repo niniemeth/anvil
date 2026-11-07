@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'MonoLisa';
-  src: url('https://githubusercontent.com') format('truetype');
+  src: url('https://githubusercontent.com/niniemeth/anvil/main/MonoLisaSCRNNormal.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MonoLisa';
-  src: url('https://githubusercontent.com') format('truetype');
+  src: url('https://githubusercontent.com/niniemeth/anvil/main/MonoLisaSCRNItalic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
