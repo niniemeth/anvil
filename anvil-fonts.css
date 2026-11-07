@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'MonoLisa';
+  src: url('https://github.io') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MonoLisa';
+  src: url('https://github.io') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body, .usertext, html {
+  font-family: 'MonoLisa', sans-serif !important;
+}
